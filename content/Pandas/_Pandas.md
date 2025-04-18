@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: _Pandas
 ---
 
 ## 1) **Tworzenie ramki danych**
