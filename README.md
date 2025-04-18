@@ -1,15 +1,7 @@
-# Quartz v4
+## Description
+This repo collects selected notes created with [Obsidian](https://obsidian.md/) and hosts them on [GitHub Pages]() via [Quartz](https://jzhao.xyz/posts/networked-thought). Some content is not avaiable due to [Excalidraw](https://excalidraw.com/) incompatibility.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
+Daj znać, jeśli chcesz też poprawić pusty link przy „GitHub Pages” albo przekształcić tekst w bardziej formalny lub techniczny.
 
 <p align="center">
   <a href="https://github.com/sponsors/jackyzha0">
