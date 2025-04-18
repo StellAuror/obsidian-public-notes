@@ -1,5 +1,5 @@
 ## Description
-This repo collects selected notes created with [Obsidian](https://obsidian.md/) and hosts them on [GitHub Pages]() via [Quartz](https://jzhao.xyz/posts/networked-thought). Some content is not avaiable due to [Excalidraw](https://excalidraw.com/) incompatibility.
+This repo collects selected notes created with [Obsidian](https://obsidian.md/) and hosts them on [GitHub Pages](https://stellauror.github.io/obsidian-public-notes/) via [Quartz](https://jzhao.xyz/posts/networked-thought). Some content is not avaiable due to [Excalidraw](https://excalidraw.com/) incompatibility.
 
 <p align="center">
   <a href="https://github.com/sponsors/jackyzha0">
